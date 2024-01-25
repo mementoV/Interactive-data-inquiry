@@ -11,6 +11,9 @@ cd Interactive-data-inquiry
 pip install -r requirements.txt
 ```
 ### Running
+```bash
+streamlit run interactive_data_inquiry
+```
 
 1. Insert your OpenAI API key and upload a PDF file.
     - First method.
