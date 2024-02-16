@@ -41,4 +41,5 @@ streamlit run interactive_data_inquiry
     <img width="1400"   src="./assets/interactive data inquiry ss5.png">
 ## To Do's
 
+- Make it usable for bigger database
 - Add a prompt template for better and more accurate results, and to avoid errors resulting from a lack of context.
